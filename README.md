@@ -1,4 +1,5 @@
-<html lang="en"><head><title>AWR Report for DB: ORCL12C, Inst: orcl12c, Snaps: 80-98</title>
+<html lang="en">
+  <head><title>AWR Report for DB: ORCL12C, Inst: orcl12c, Snaps: 80-98</title>
 <style type="text/css">
 body.awr {font:bold 10pt Arial,Helvetica,Geneva,sans-serif;color:black; background:White;}
 pre.awr  {font:8pt Courier;color:black; background:White;}
